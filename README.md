@@ -1,5 +1,5 @@
-Hello Git!
+**Hallo Git!**
 
 @CharismaDK
 
-Reach me: storedirector@icloud.com
+Reach me: [title]storedirector@icloud.com)storedirector@icloud.com
