@@ -2,4 +2,4 @@
 
 @CharismaDK
 
-Reach me: [title]storedirector@icloud.com)storedirector@icloud.com
+Reach me @ [storedirector@icloud.com](storedirector@icloud.com)
